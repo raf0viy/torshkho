@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "8ec0feb7cf2db5eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c61f7ee493bac34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "108d02a666459e8e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Родословное дерево.canvas",
+                "viewState": {
+                  "x": 8188.618497836866,
+                  "y": 583.1378798567089,
+                  "zoom": -1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Родословное дерево"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa6e5d60eab37ca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e59c82254341ecc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f66b29aa48d99674",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5921d35d95038898",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "31c5cf0d34f6f563",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8c9088d26b61a03",
+    "type": "split",
+    "children": [
+      {
+        "id": "faefa3591a978658",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2118c041fea05fdf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Родословное дерево.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "025dde112cf5c5dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Родословное дерево.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a41410bb0ca07793",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac2a7ebdd0bb5eb6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cc671d128cf6b91e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Родословное дерево.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "108d02a666459e8e",
+  "lastOpenFiles": [
+    "Люди/001 - Батж.md",
+    "Родословное дерево.canvas",
+    "Люди/291 - Магомед.md",
+    "Люди/290 - Илез.md",
+    "Люди/289 - Саид Мохмад.md",
+    "Люди/288 - Мухамед.md",
+    "Люди/287 - Саид Ахмад.md",
+    "Люди/286 - Али.md",
+    "Люди/285 - Илез.md",
+    "Люди/284 - Дени.md",
+    "Люди/283 - Ахмад.md",
+    "Люди/282 - Мохмад.md",
+    "Люди/281 - Ислам.md",
+    "Люди/280 - Хас Мохмад.md",
+    "Люди/279 - Джамалел.md",
+    "Люди/278 - Сали.md",
+    "Люди/277 - Башир.md",
+    "Люди/276 - Хажмурд.md",
+    "Люди/275 - Мохмад.md",
+    "Люди/274 - Багаудин.md",
+    "Люди/273 - Ибрагим.md",
+    "Люди/272 - Руслан.md",
+    "Люди/271 - Ахмед Хан.md",
+    "Люди/270 - Ахмад.md",
+    "Люди/269 - Адам.md",
+    "Люди/268 - Амирхан.md",
+    "Люди/267 - Руслан.md",
+    "Люди",
+    "generate_obsidian_tree.py",
+    "parse4.py",
+    "parse3.py",
+    "parse2.py",
+    "parse_html.py",
+    "Батж.mm.html"
+  ]
+}
